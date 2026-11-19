@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="{% static 'lab/css/site.css' %}">
+  <link rel="stylesheet" href="{% static 'lab/css/site.css' %}?v=2">
 </head>
 <body>
   <a class="skip-link" href="#content">Skip to content</a>
@@ -20,6 +20,6 @@
   </nav></header>
   <main id="content">{% block content %}{% endblock %}</main>
   <footer class="footer"><div><strong>NIDL</strong><span>Neural Intelligence &amp; Deep Learning Lab</span></div><p>Learning systems for a thinking world.</p></footer>
-  <script src="{% static 'lab/js/site.js' %}"></script>
+  <script src="{% static 'lab/js/site.js' %}?v=2"></script>
 </body>
 </html>

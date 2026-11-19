@@ -12,4 +12,14 @@ cd main
 python manage.py runserver
 ```
 
+## Sync publications
+
+Refresh the publication list and co-author metadata from ORCID and Crossref:
+
+```bash
+python backend/manage.py sync_publications
+```
+
+The command updates `backend/lab/publications.json`. The publications page reads
+that file, so no template changes are needed when the publications change.
 

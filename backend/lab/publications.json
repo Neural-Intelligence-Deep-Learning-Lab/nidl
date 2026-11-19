@@ -1,0 +1,311 @@
+[
+  {
+    "year": "2026",
+    "title": "Real-world waste classification using integrated approach of transfer learning features with machine learning",
+    "venue": "Sustainable Environment Research",
+    "authors": [
+      "Nimra Akram",
+      "Muhammad Shadab Alam Hashmi",
+      "Irene Delgado Noya",
+      "Helena Garay",
+      "Imran Ashraf"
+    ],
+    "read_url": "https://doi.org/10.1186/s42834-026-00291-3",
+    "code_url": "https://github.com/Neural-Intelligence-Deep-Learning-Lab/nidl"
+  },
+  {
+    "year": "2026",
+    "title": "HARNESSING THE POWER OF ARTIFICIAL INTELLIGENCE FOR ACCURATE OVARIAN CANCER CLASSIFICATION",
+    "venue": "Zenodo",
+    "authors": [
+      "Saira Amjad",
+      "Saeed Ahmad",
+      "Muhammad Shadab Alam Hashmi"
+    ],
+    "read_url": "https://doi.org/10.5281/ZENODO.22275650",
+    "code_url": "https://github.com/Neural-Intelligence-Deep-Learning-Lab/nidl"
+  },
+  {
+    "year": "2026",
+    "title": "FedCareX: Trust-Aware Federated Transformer for Wearable IoT Seizure Prediction",
+    "venue": "Sensors",
+    "authors": [
+      "Fahad Ali",
+      "Muhammad Shadab Alam Hashmi",
+      "Muhammad Ismail Mohmand",
+      "Syed Rizwan Hassan"
+    ],
+    "read_url": "https://doi.org/10.3390/s26196146",
+    "code_url": "https://github.com/Neural-Intelligence-Deep-Learning-Lab/nidl"
+  },
+  {
+    "year": "2026",
+    "title": "EXPLAINABLE MACHINE LEARNING FOR EARLY MIGRAINE DETECTION AND SEVERITY CLASSIFICATION USING SMOTE-BALANCED ENSEMBLE MODELS",
+    "venue": "Zenodo",
+    "authors": [
+      "Muhammad Aamish Aslam",
+      "Saeed Ahmad",
+      "Muhammad Shadab Alam Hashmi"
+    ],
+    "read_url": "https://doi.org/10.5281/ZENODO.22275903",
+    "code_url": "https://github.com/Neural-Intelligence-Deep-Learning-Lab/nidl"
+  },
+  {
+    "year": "2026",
+    "title": "Automatic prediction of cotton leaf’s diseases using deep learning techniques",
+    "venue": "Scientific Reports",
+    "authors": [
+      "Muhammad Naeem",
+      "Muhammad Ibrahim",
+      "Nadeem Sarwar",
+      "Oumaima Saidani",
+      "Asma Irshad",
+      "Muhammad Shadab Alam Hashmi",
+      "Muhammad Tayyab Qammar"
+    ],
+    "read_url": "https://doi.org/10.1038/s41598-026-60523-9",
+    "code_url": "https://github.com/Neural-Intelligence-Deep-Learning-Lab/nidl"
+  },
+  {
+    "year": "2026",
+    "title": "A Novel Framework Integrating Epidemiological Features and Machine Learning Models for Prostate Cancer Detection on Imbalanced Dataset",
+    "venue": "International Journal of Computational Intelligence Systems",
+    "authors": [
+      "Muhammad Mohsin",
+      "Ayesha Anwar",
+      "Muhammad Shadab Alam Hashmi",
+      "Silvia Aparicio Obregon",
+      "Ruben Calderon Iglesias",
+      "Nagwan Abdel Samee",
+      "Imran Ashraf"
+    ],
+    "read_url": "https://doi.org/10.1007/s44196-026-01489-4",
+    "code_url": "https://github.com/Neural-Intelligence-Deep-Learning-Lab/nidl"
+  },
+  {
+    "year": "2026",
+    "title": "A Multi-Stage Swarm Intelligence based Optimization for Deep Feature Reduction in Metal Surface Defect Classification",
+    "venue": "",
+    "authors": [
+      "Muhammad Mohsin",
+      "Muhammad Shadab Alam Hashmi",
+      "Shabana Ramzan"
+    ],
+    "read_url": "https://doi.org/10.21203/rs.3.rs-8854571/v1",
+    "code_url": "https://github.com/Neural-Intelligence-Deep-Learning-Lab/nidl"
+  },
+  {
+    "year": "2025",
+    "title": "XCEPFOREST: A HYBRID DEEP LEARNING AND MACHINE LEARNING  APPROACH FOR ENDANGERED AQUATIC SPECIES CLASSIFICATION",
+    "venue": "Zenodo",
+    "authors": [
+      "Khalil Haider",
+      "Muhammad Farhan Asghar",
+      "Muhammad Shadab Alam Hashmi",
+      "Muhammad Saeed",
+      "Rida Fatima",
+      "Saima Noreen Khosa"
+    ],
+    "read_url": "https://doi.org/10.5281/ZENODO.15431473",
+    "code_url": "https://github.com/Neural-Intelligence-Deep-Learning-Lab/nidl"
+  },
+  {
+    "year": "2025",
+    "title": "Website Phishing Attack Detection Using Innovative Meta Learning-Based Ensemble Approach",
+    "venue": "IEEE Access",
+    "authors": [
+      "Saba Naseeb",
+      "Shabana Ramzan",
+      "Ali Raza",
+      "Muhammad Shadab Alam Hashmi",
+      "Yeonghyeon Gu",
+      "Muhammad Syafrudin",
+      "Norma Latif Fitriyani"
+    ],
+    "read_url": "https://doi.org/10.1109/ACCESS.2025.3610961",
+    "code_url": "https://github.com/Neural-Intelligence-Deep-Learning-Lab/nidl"
+  },
+  {
+    "year": "2025",
+    "title": "VGGBM-Net: A Novel Pixel-Based Transfer Features Engineering for Automated Coffee Bean Diseases Classification",
+    "venue": "IEEE Access",
+    "authors": [
+      "Muhammad Shadab Alam Hashmi",
+      "Azam Mehmood Qadri",
+      "Ali Raza",
+      "Saleem Ullah",
+      "Aseel Smerat",
+      "Changgyun Kim",
+      "Muhammad Syafrudin",
+      "Norma Latif Fitriyani"
+    ],
+    "read_url": "https://doi.org/10.1109/ACCESS.2025.3569078",
+    "code_url": "https://github.com/Neural-Intelligence-Deep-Learning-Lab/nidl"
+  },
+  {
+    "year": "2025",
+    "title": "SMART FILTERS FOR SMS SPAM: A MACHINE LEARNING APPROACH TO SMS CLASSIFICATION",
+    "venue": "Zenodo",
+    "authors": [
+      "Ishrat Nawaz",
+      "Saima Noreen Khosa",
+      "Rida Fatima",
+      "Muhammad Saeed",
+      "Muhammad Shadab Alam Hashmi"
+    ],
+    "read_url": "https://doi.org/10.5281/ZENODO.15333801",
+    "code_url": "https://github.com/Neural-Intelligence-Deep-Learning-Lab/nidl"
+  },
+  {
+    "year": "2025",
+    "title": "OSTEOSARCOMA BONE TUMOR DETECTION USING DEEP ENSEMBLE TRANSFER LEARNING ARCHITECTURE",
+    "venue": "Zenodo",
+    "authors": [
+      "Fouzia Nourin",
+      "Muhammad Shadab Alam Hashmi"
+    ],
+    "read_url": "https://doi.org/10.5281/ZENODO.18720941",
+    "code_url": "https://github.com/Neural-Intelligence-Deep-Learning-Lab/nidl"
+  },
+  {
+    "year": "2025",
+    "title": "Dual-modality fusion for mango disease classification using dynamic attention based ensemble of leaf &amp; fruit images",
+    "venue": "Scientific Reports",
+    "authors": [
+      "Muhammad Mohsin",
+      "Muhammad Shadab Alam Hashmi",
+      "Irene Delgado Noya",
+      "Helena Garay",
+      "Nagwan Abdel Samee",
+      "Imran Ashraf"
+    ],
+    "read_url": "https://doi.org/10.1038/s41598-025-26052-7",
+    "code_url": "https://github.com/Neural-Intelligence-Deep-Learning-Lab/nidl"
+  },
+  {
+    "year": "2025",
+    "title": "AI-POWERED PANCREATIC CANCER DIAGNOSIS SYSTEM",
+    "venue": "Zenodo",
+    "authors": [
+      "Muneeba Sarwer",
+      "Zainab Riaz",
+      "Muhammad Shadab Alam Hashmi"
+    ],
+    "read_url": "https://doi.org/10.5281/ZENODO.18720830",
+    "code_url": "https://github.com/Neural-Intelligence-Deep-Learning-Lab/nidl"
+  },
+  {
+    "year": "2025",
+    "title": "A Sentence‐Level Encoder–Decoder Architecture for Designing an Administrative Roman Urdu Chatbot",
+    "venue": "Applied Computational Intelligence and Soft Computing",
+    "authors": [
+      "Muhammad Nazam Maqbool",
+      "Rana Muhammad Saleem",
+      "Nadeem Sarwar",
+      "Muhammad Ibrahim",
+      "Muhammad Shadab Alam Hashmi"
+    ],
+    "read_url": "https://doi.org/10.1155/acis/4728280",
+    "code_url": "https://github.com/Neural-Intelligence-Deep-Learning-Lab/nidl"
+  },
+  {
+    "year": "2024",
+    "title": "Novel Ensemble Learning Algorithm for Early Detection of Lower Back Pain Using Spinal Anomalies",
+    "venue": "Mathematics",
+    "authors": [
+      "Moin Haider",
+      "Muhammad Shadab Alam Hashmi",
+      "Ali Raza",
+      "Muhammad Ibrahim",
+      "Norma Latif Fitriyani",
+      "Muhammad Syafrudin",
+      "Seung Won Lee"
+    ],
+    "read_url": "https://doi.org/10.3390/math12131955",
+    "code_url": "https://github.com/Neural-Intelligence-Deep-Learning-Lab/nidl"
+  },
+  {
+    "year": "2024",
+    "title": "INTELLIGENT EMERGENCY VEHICLE SOUND CLASSIFICATION FOR PUBLIC SAFETY",
+    "venue": "Kashf Journal of Multidisciplinary Research",
+    "authors": [
+      "Hira Farooq",
+      "Muhammad Shadab Alam Hashmi",
+      "Talha Farooq Khan (Corresponding Author)",
+      "Qamar Hafeez",
+      "Muhammad Mohsin"
+    ],
+    "read_url": "https://doi.org/10.71146/kjmr161",
+    "code_url": "https://github.com/Neural-Intelligence-Deep-Learning-Lab/nidl"
+  },
+  {
+    "year": "2024",
+    "title": "Heart failure survival prediction using novel transfer learning based probabilistic features",
+    "venue": "PeerJ Computer Science",
+    "authors": [
+      "Azam Mehmood Qadri",
+      "Muhammad Shadab Alam Hashmi",
+      "Ali Raza",
+      "Syed Ali Jafar Zaidi",
+      "Atiq ur Rehman"
+    ],
+    "read_url": "https://doi.org/10.7717/peerj-cs.1894",
+    "code_url": "https://github.com/Neural-Intelligence-Deep-Learning-Lab/nidl"
+  },
+  {
+    "year": "2024",
+    "title": "Early Detection of Low Back Pain: A Machine Learning Approach with Enhanced Data Techniques",
+    "venue": "Indus Journal of Bioscience Research",
+    "authors": [
+      "Moin Haider",
+      "Muhammad Shadab Alam Hashmi",
+      "Anam Ishaq",
+      "Komal Rani Narejo",
+      "Aqsa Jameel"
+    ],
+    "read_url": "https://doi.org/10.70749/ijbr.v2i02.396",
+    "code_url": "https://github.com/Neural-Intelligence-Deep-Learning-Lab/nidl"
+  },
+  {
+    "year": "2023",
+    "title": "Railway Track Fault Detection Using Selective MFCC Features from Acoustic Data",
+    "venue": "Sensors",
+    "authors": [
+      "Furqan Rustam",
+      "Abid Ishaq",
+      "Muhammad Shadab Alam Hashmi",
+      "Hafeez Ur Rehman Siddiqui",
+      "Luis Alonso Dzul López",
+      "Juan Castanedo Galán",
+      "Imran Ashraf"
+    ],
+    "read_url": "https://doi.org/10.3390/s23167018",
+    "code_url": "https://github.com/Neural-Intelligence-Deep-Learning-Lab/nidl"
+  },
+  {
+    "year": "2022",
+    "title": "Railway Track Inspection Using Deep Learning Based on Audio to Spectrogram Conversion: An on-the-Fly Approach",
+    "venue": "Sensors",
+    "authors": [
+      "Muhammad Shadab Alam Hashmi",
+      "Muhammad Ibrahim",
+      "Imran Sarwar Bajwa",
+      "Hafeez-Ur-Rehman Siddiqui",
+      "Furqan Rustam",
+      "Ernesto Lee",
+      "Imran Ashraf"
+    ],
+    "read_url": "https://doi.org/10.3390/s22051983",
+    "code_url": "https://github.com/Neural-Intelligence-Deep-Learning-Lab/nidl"
+  },
+  {
+    "year": "2021",
+    "title": "Implementation of ML Algorithm for Mung Bean Classification using Smart Phone",
+    "venue": "",
+    "authors": [
+      "Muhammad Shadab Alam Hashmi"
+    ],
+    "read_url": "https://doi.org/10.22937/IJCSNS.2021.21.11.12",
+    "code_url": "https://github.com/Neural-Intelligence-Deep-Learning-Lab/nidl"
+  }
+]
