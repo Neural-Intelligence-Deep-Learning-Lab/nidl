@@ -29,16 +29,24 @@
                 <h2>Recent publications</h2>
             </div>
             <a class="text-link" href="{% url 'publications' %}">View all ↗</a>
-        </div><article class="publication">
-            <span>2025</span><div>
-                <h3>Understanding Representation Drift</h3>
-                <p>A. Rahman, M. Chen · Journal of Machine Learning Research</p>
-            </div></article>
-            <article class="publication"><span>2024</span>
-                <div>
-                    <h3>Reliable Vision-Language Agents</h3>
-                    <p>A. Rahman, S. Patel · NeurIPS</p></div>
-                </article>
+        </div>
+        {% for publication in recent_publications %}
+        <article class="publication">
+            <span>{{ publication.year }}</span>
+            <div>
+                <h3>{{ publication.title }}</h3>
+                <p>{{ publication.authors|join:", " }}{% if publication.venue %} · {{ publication.venue }}{% endif %}</p>
+                <div class="links">
+                    <a href="{{ publication.read_url }}" target="_blank" rel="noopener noreferrer">Read ↗</a>
+                    {% if publication.code_url %}
+                    <a href="{{ publication.code_url }}" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+                    {% endif %}
+                </div>
+            </div>
+        </article>
+        {% empty %}
+        <p class="empty">No publications are available yet.</p>
+        {% endfor %}
             </div>
         </section>
 {% endblock %}
